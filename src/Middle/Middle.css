@@ -113,3 +113,139 @@
     background-color: white;
      padding: 20px;
 }
+
+
+
+
+
+/*   ##########################################################################################  */
+/*   ##########################################################################################  */
+/*                               M O B I L E       S T Y L I N G                                 */
+/*   ##########################################################################################  */
+/*   ##########################################################################################  */
+
+
+
+
+
+
+@media (max-width: 600px) {
+ 
+ 
+
+#Middle {
+    color: white;
+    width: 100%;
+    height: 76vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F6F0F0;
+
+}
+
+
+#Middle_A
+{
+    width: 85%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#Method_box
+{
+    width: 17%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    font-size: 1.5vw;
+    color: black;
+    border-radius: 7px;
+    background-color: white;
+}
+
+
+
+#Api_Box
+{
+    width: 63%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.5vw;
+    color: black;
+     border-radius: 7px;
+     background-color: white;
+}
+
+#Sendbtn
+{
+    width: 15%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+   font-size: 1.5vw;
+    color: black;
+     border-radius: 7px;
+     background-color: white;
+}
+
+
+#Middle_B
+{
+     width: 85%;
+    height: 42%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    
+}
+
+
+#Middle_B textarea
+{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+
+}
+
+
+#Middle_C
+{
+    width: 85%;
+    height: 42%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: RED;
+}
+
+#Middle_C textarea
+{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     padding: 20px;
+}
+
+
+
+
+  
+
+
+
+  
+}
